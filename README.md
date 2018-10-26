@@ -8,3 +8,5 @@ Dataset Link Address: http://www2.aueb.gr/users/ion/data/enron-spam/preprocessed
 'model_data.py' outputs a dictionary, features and labels to feed to the model.
 
 'classifier.py' has the actual code where the model gets trained and tested.
+
+Python 3 is used for the purpose.
